@@ -1,0 +1,5 @@
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\5-X-Bits\bin\Debug\5-X-Bits.exe.config
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\5-X-Bits\bin\Debug\5-X-Bits.exe
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\5-X-Bits\bin\Debug\5-X-Bits.pdb
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\5-X-Bits\obj\Debug\5-X-Bits.exe
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\5-X-Bits\obj\Debug\5-X-Bits.pdb

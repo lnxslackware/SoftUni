@@ -1,0 +1,5 @@
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\3-Stars\bin\Debug\3-Stars.exe.config
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\3-Stars\bin\Debug\3-Stars.exe
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\3-Stars\bin\Debug\3-Stars.pdb
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\3-Stars\obj\Debug\3-Stars.exe
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\3-Stars\obj\Debug\3-Stars.pdb

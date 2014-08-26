@@ -1,0 +1,5 @@
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\2-JumpingSums\bin\Debug\2-JumpingSums.exe.config
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\2-JumpingSums\bin\Debug\2-JumpingSums.exe
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\2-JumpingSums\bin\Debug\2-JumpingSums.pdb
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\2-JumpingSums\obj\Debug\2-JumpingSums.exe
+C:\Users\Svetoslav\Desktop\SoftUni\SoftUni-Exam-26-08-2014\2-JumpingSums\obj\Debug\2-JumpingSums.pdb
