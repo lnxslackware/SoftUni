@@ -1,0 +1,6 @@
+D:\SoftUni\JavaScript-Basics\Exam\Exam\Exam\bin\Exam.dll.config
+D:\SoftUni\JavaScript-Basics\Exam\Exam\Exam\bin\Exam.dll
+D:\SoftUni\JavaScript-Basics\Exam\Exam\Exam\bin\Exam.pdb
+D:\SoftUni\JavaScript-Basics\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+D:\SoftUni\JavaScript-Basics\Exam\Exam\Exam\obj\Debug\Exam.dll
+D:\SoftUni\JavaScript-Basics\Exam\Exam\Exam\obj\Debug\Exam.pdb
